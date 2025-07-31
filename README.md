@@ -24,5 +24,5 @@ Usa los elementos con moderación y mantén el espacio alrededor del logotipo pa
 
 No alteres los colores corporativos ni modifiques las proporciones del logotipo.
 
-Utiliza la tipografía corporativa siempre que sea posible (se recomienda Montserrat o una fuente sans-serif similar).
+Utiliza la tipografía corporativa (Pathway extreme) siempre que sea posible (se recomienda Arial o una fuente sans-serif similar como alternativa).
 
