@@ -13,9 +13,9 @@ Elementos gráficos asociados a nuestros productos (Viafirma Documents, Viafirma
 Recursos auxiliares para esquemas técnicos o comerciales.
 
 ¿Cómo usarla?
-1. Accede a diagrams.net.
-2. En el menú izquierdo, haz clic en “+ More Shapes…” (o "Más formas").
-3. Elige la opción de “Device…” y carga la librería .xml proporcionada.
+1. Accede a [draw.io](https://app.diagrams.net/)
+2. En el menú "Archivo" y "Abrir biblioteca desde..." "GITHUB
+3. Autoriza los permisos y selecciona la biblioteca
 
 Una vez cargada, podrás arrastrar los elementos directamente al lienzo.
 
