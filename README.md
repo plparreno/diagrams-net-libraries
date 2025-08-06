@@ -14,7 +14,7 @@ Recursos auxiliares para esquemas técnicos o comerciales.
 
 ¿Cómo usarla?
 1. Accede a [draw.io](https://app.diagrams.net/)
-2. En el menú "Archivo" y "Abrir biblioteca desde..." "GITHUB
+2. En el menú "Archivo" y "Abrir biblioteca desde..." "GITHUB"
 3. Autoriza los permisos y selecciona la biblioteca
 
 Una vez cargada, podrás arrastrar los elementos directamente al lienzo.
